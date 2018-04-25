@@ -1,5 +1,6 @@
 #!/bin/bash
 #name SimpleCaculator
+#time 2018-4-24
 while  true
 do
 read -p ">" input
